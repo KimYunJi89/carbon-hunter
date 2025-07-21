@@ -1,0 +1,4 @@
+id,name,cost,carbon_reduction,satisfaction,image
+1,공공건물 LED 교체,2000,100,1,card_led.png
+2,수소차 보조금,5000,250,4,card_h2car.png
+3,지역난방 전환,3000,120,2,card_district.png
